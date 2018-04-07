@@ -1,4 +1,4 @@
-# button-text-animation
+# Button Text Animation
 Text Animation Effects on Button Hover
 
 <a href="https://designdrastic.com/snippet/button-text-animation"><strong>View Post</strong></a>
